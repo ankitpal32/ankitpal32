@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQFQLhyKw2HPDw/profile-displaybackgroundimage-shrink_350_1400/B4DZbPd_gLHQAg-/0/1747237472339?e=1757548800&v=beta&t=vUZ3YkHh01anYVKxyVWleum4F_gOXhkxhfqWsocd4ow" alt="GitHub Poster" width="100%">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQGdiuJQXEZvIQ/profile-displaybackgroundimage-shrink_350_1400/B4DZf07YFVGsAY-/0/1752160898023?e=1757548800&v=beta&t=ogU7RHKbetkqWe7iaMc2BAvtDS6TcZqQRW1weHHReM4" alt="GitHub Poster" width="100%">
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
 <h3 align="center">Developer | Hackathon Enthusiast | Passionate About Tech & Innovation </h3>
 <img align="right" alt="Coding" width="350" src="https://gifdb.com/images/high/animated-programmer-guy-coding-790a0bs8e8thpisg.webp">
