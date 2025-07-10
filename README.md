@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
 <h3 align="center">A passionate Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNoa3ZiemxyaXM1bWFjdWdjNWFpaWttdGg5bG9mcGhhOHAyN2h2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal32&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal32" /> </p>
-
-<p align="left"> <a href="https://twitter.com/ankitpal1372923" target="blank"><img src="https://img.shields.io/twitter/follow/ankitpal1372923?logo=twitter&style=for-the-badge" alt="ankitpal1372923" /></a> </p>
 
 - 🌱 I’m currently learning **Python and Web Development**
 
