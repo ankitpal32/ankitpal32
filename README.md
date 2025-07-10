@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal32&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal32" /> </p>
 
-- 🌱 I’m currently learning **Python and Web Development**
+- 🌱 I’m currently learning **Python and Web Development**  
 
-- 👨‍💻 All of my projects are available at [https://portfolio-ankit0101705s-portfolio.vercel.app/](https://portfolio-ankit0101705s-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-ankit0101705s-portfolio.vercel.app/)  
 
-- 📫 How to reach me **ankitpal3210@gmail.com**
+- 📫 How to reach me: **ankitpal3210@gmail.com**  
 
-- 📄 Know about my experiences [https://portfolio-ankit0101705s-portfolio.vercel.app/](https://portfolio-ankit0101705s-portfolio.vercel.app/)
+- 📄 Know about my experiences: [Resume](https://portfolio-ankit0101705s-portfolio.vercel.app/)  
 
-- ⚡ Hobby **Too See And Play Cricket**
+- ⚡ Hobby: **Watching and Playing Cricket**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
