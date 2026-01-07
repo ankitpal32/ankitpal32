@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Python and Web Development**  
 
-- 👨‍💻 All of my projects are available on my [Portfolio](https://portfolio-ankit0101705s-portfolio.vercel.app/)  
+- 👨‍💻 All of my projects are available on my [https://www.ankitpal.xyz/](https://www.ankitpal.xyz/)  
 
 - 📫 How to reach me: **ankitpal3210@gmail.com**  
 
-- 📄 Know about my experiences: [Resume](https://portfolio-ankit0101705s-portfolio.vercel.app/)  
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1IYRMkvyFNDhZloRd6kpfN76dKhUkfp-u/view)  
 
 - ⚡ Hobby: **Watching and Playing Cricket**
 
