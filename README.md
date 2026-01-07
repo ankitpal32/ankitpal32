@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal32&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal32" /> </p>
 
-- 🌱 I’m currently learning **Python and Web Development**  
+- 🌱 I’m currently learning **Generative AI and building AI agents**  
 
 - 👨‍💻 All of my projects are available on my [https://www.ankitpal.xyz/](https://www.ankitpal.xyz/)  
 
