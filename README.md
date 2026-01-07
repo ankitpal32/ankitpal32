@@ -1,6 +1,6 @@
 <!-- <img src="https://media.licdn.com/dms/image/v2/D4D16AQE7td45rGU8kQ/profile-displaybackgroundimage-shrink_350_1400/B4DZiKkWm8GsAc-/0/1754671443861?e=1761177600&v=beta&t=wtzHrbsiOjEBU5a5E-tTZT-a4msDmSqX0PK2QCOGYms" alt="GitHub Poster" width="100%"> -->
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
-<h3 align="center">Developer | Freelance Web Developer | Postman Student Expert | 5x Hackathon Participant | Tech & Innovation Enthusiast </h3>
+<h3 align="center">Developer | Freelance Web Developer | Postman Student Expert | Tech & Innovation Enthusiast </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal32&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal32" /> </p>
 
