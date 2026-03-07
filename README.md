@@ -3,7 +3,7 @@
 # Hi 👋 I'm Ankit Pal
 ### 🚀 Developer | Tech Enthusiast | Hackathon Builder
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Hackathon+Enthusiast;Open+Source+Contributor;Building+Real+Life+Solutions" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Developer;Hackathon+Enthusiast;Open+Source+Contributor;Building+Real+Life+Solutions" />
 
 </div>
 
