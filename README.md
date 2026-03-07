@@ -76,23 +76,10 @@ solve **real-life problems with code**
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/ankitpal32" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="https://instagram.com/i..ankitpal_" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
-
-<a href="https://x.com/ankitpal32" target="_blank">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/>
-</a>
-
-<a href="mailto:ankitpal3210@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
+<a href="https://linkedin.com/in/ankitpal32"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/i..ankitpal_"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/ankitpal32"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/></a>&nbsp;&nbsp;&nbsp;
+<a href="mailto:ankitpal3210@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
 </p>
 
 <p align="center">
