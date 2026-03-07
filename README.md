@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋 I'm Ankit Pal
-### 🚀 Web Developer | Tech Enthusiast | Hackathon Builder
+### 🚀 Developer | Tech Enthusiast | Hackathon Builder
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Hackathon+Enthusiast;Open+Source+Contributor;Building+Real+Life+Solutions" />
 
@@ -11,24 +11,37 @@
 
 ## 💫 About Me
 
-🔭 **Currently working on:**  
-Full Stack Development projects and Hackathons.
+## 💫 About Me
 
-🤝 **Looking to collaborate on:**  
-Open-Source and Web Development Projects.
+<table>
+<tr>
+<td>
 
-🆘 **Looking for help with:**  
-Backend Development and Advanced Web Technologies.
+🔭 **Currently Working On**  
+Full Stack Development projects and Hackathons  
 
-🌱 **Currently learning:**  
-React.js and Backend Development.
+🌱 **Currently Learning**  
+React.js and Backend Development  
 
-💬 **Ask me about:**  
-Web Development, Hackathons, JavaScript, or anything tech related.
+💬 **Ask Me About**  
+Web Development, Hackathons, JavaScript  
 
-⚡ **Fun fact:**  
-I love building projects that solve real-life problems.
+</td>
 
+<td>
+
+🤝 **Looking To Collaborate On**  
+Open Source and Web Development Projects  
+
+🆘 **Looking For Help With**  
+Backend Development and Advanced Technologies  
+
+⚡ **Fun Fact**  
+I love building projects that solve real-life problems  
+
+</td>
+</tr>
+</table>
 ---
 
 ## 🌐 Connect With Me
