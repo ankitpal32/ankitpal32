@@ -1,24 +1,78 @@
-<!-- <img src="https://media.licdn.com/dms/image/v2/D4D16AQE7td45rGU8kQ/profile-displaybackgroundimage-shrink_350_1400/B4DZiKkWm8GsAc-/0/1754671443861?e=1761177600&v=beta&t=wtzHrbsiOjEBU5a5E-tTZT-a4msDmSqX0PK2QCOGYms" alt="GitHub Poster" width="100%"> -->
 <h1 align="center">Hi 👋, I'm Ankit Pal</h1>
-<h3 align="center">Developer | Freelance Web Developer | Postman Student Expert | Tech & Innovation Enthusiast </h3>
+<h3 align="center">A Passionate Web Developer & Tech Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitpal32&label=Profile%20views&color=0e75b6&style=flat" alt="ankitpal32" /> </p>
+---
 
-- 🌱 I’m currently learning **Generative AI and building AI agents**  
+# 💫 About Me
+🔭 **I’m currently working on:**  
+Full Stack Development projects and Hackathons.
 
-- 👨‍💻 All of my projects are available on my [https://www.ankitpal.xyz/](https://www.ankitpal.xyz/)  
+🤝 **I’m looking to collaborate on:**  
+Open-Source and Web Development Projects.
 
-- 📫 How to reach me: **ankitpal3210@gmail.com**  
+🆘 **I’m looking for help with:**  
+Backend Development and Advanced Web Technologies.
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1IYRMkvyFNDhZloRd6kpfN76dKhUkfp-u/view)  
+🌱 **I’m currently learning:**  
+React.js and Backend Development.
 
-- ⚡ Hobby: **Watching and Playing Cricket**
+💬 **Ask me about:**  
+Web Development, Hackathons, JavaScript, or anything tech related.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ankitpal32/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankit-pal-a7755930a" height="30" width="40" /></a>
-<a href="https://x.com/ankitpal32_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ankitpal1372923" height="30" width="40" /></a>
-</p>
+⚡ **Fun fact:**  
+I love building projects that solve real-life problems.
 
-<h3 align="left">Languages and Tools:</h3>
-<p <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
+
+# 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i..ankitpal_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitpal32) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ankitpal32) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitpal3210@gmail.com)
+
+---
+
+# 💻 Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=ankitpal32&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ankitpal32&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpal32&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ankitpal32&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ankitpal32&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ankitpal32&icon=0&color=0)](https://visitcount.itsvg.in)
