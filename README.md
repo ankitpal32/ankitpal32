@@ -10,44 +10,95 @@
 
 ## 💫 About Me
 
+<div align="center">
+
 <table>
 <tr>
-<td>
+<td width="50%">
 
-🔭 **Currently Working On**  
-Full Stack Development projects and Hackathons  
-
-🌱 **Currently Learning**  
-React.js and Backend Development  
-
-💬 **Ask Me About**  
-Web Development, Hackathons, JavaScript  
+### 🔭 Currently Working On
+🚀 Full Stack Development Projects  
+🏆 Participating in Hackathons  
+💡 Building Real-Life Problem Solving Apps  
 
 </td>
 
-<td>
+<td width="50%">
 
-🤝 **Looking To Collaborate On**  
-Open Source and Web Development Projects  
+### 🤝 Looking To Collaborate On
+🌍 Open Source Projects  
+💻 Web Development Projects  
+⚡ Innovative Tech Ideas  
 
-🆘 **Looking For Help With**  
-Backend Development and Advanced Technologies  
+</td>
+</tr>
 
-⚡ **Fun Fact**  
-I love building projects that solve real-life problems  
+<tr>
+<td width="50%">
+
+### 🌱 Currently Learning
+⚛️ React.js  
+🗄️ Backend Development  
+🧠 Advanced Web Technologies  
+
+</td>
+
+<td width="50%">
+
+### 🆘 Looking For Help With
+🔧 Backend Architecture  
+📡 API Optimization  
+⚙️ Scalable Systems  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💬 Ask Me About
+🌐 Web Development  
+🚀 Hackathons  
+🟨 JavaScript  
+
+</td>
+
+<td width="50%">
+
+### ⚡ Fun Fact
+💡 I love building projects that  
+solve **real-life problems with code**
 
 </td>
 </tr>
 </table>
----
+
+</div>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://instagram.com/i..ankitpal_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"></a>
-<a href="https://linkedin.com/in/ankitpal32"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/ankitpal32"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"></a>
-<a href="mailto:ankitpal3210@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a>
+
+<a href="https://linkedin.com/in/ankitpal32" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://instagram.com/i..ankitpal_" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://x.com/ankitpal32" target="_blank">
+<img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/>
+</a>
+
+<a href="mailto:ankitpal3210@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+<p align="center">
+💼 Let's connect and build something amazing together!
 </p>
 
 ---
@@ -56,41 +107,19 @@ I love building projects that solve real-life problems
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,mysql,mongodb,firebase,aws,figma,postman,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github,mysql,mongodb,firebase,aws,postman"/>
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ankitpal32&show_icons=true&theme=tokyonight" height="170"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpal32&theme=tokyonight" height="170"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitpal32&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ankitpal32&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</p>
-
----
-
-## ✨ Dev Quote
 
 <p align="center">
 
@@ -98,10 +127,3 @@ I love building projects that solve real-life problems
 
 </p>
 
----
-
-<p align="center">
-
-<img src="https://visitcount.itsvg.in/api?id=ankitpal32&icon=5&color=6"/>
-
-</p>
