@@ -1,104 +1,49 @@
 <div align="center">
 
-# Hi 👋 I'm Ankit Pal
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Developer;Hackathon+Enthusiast;Open+Source+Contributor;Building+Real+Life+Solutions" />
+# Hi 👋, I'm Ankit Pal
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Builder;Hackathon+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</p>
 
 </div>
 
+---
 
-## 💫 About Me
+## 🚀 About Me
 
-<div align="center">
+- 🎓 BCA Student
+- 💼 Full Stack Developer
+- 💡 Focused on building useful web products
 
-<table>
-<tr>
-<td width="50%">
+---
 
-### 🔭 Currently Working On
-🚀 Full Stack Development Projects  
-🏆 Participating in Hackathons  
-💡 Building Real-Life Problem Solving Apps  
+## 🛠 Tech Stack
 
-</td>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,tailwind,git,github,postman,vercel,firebase,supabase,vscode,aws" />
+</p>
 
-<td width="50%">
+---
 
-### 🤝 Looking To Collaborate On
-🌍 Open Source Projects  
-💻 Web Development Projects  
-⚡ Innovative Tech Ideas  
+## 💼 Experience
 
-</td>
-</tr>
+### HyprDevs Software Solutions
+**Full Stack Developer / Co-Founder**  
+Built and delivered real-world web applications, worked with teams, and contributed to product development and technical execution.
 
-<tr>
-<td width="50%">
-
-### 🌱 Currently Learning
-⚛️ React.js  
-🗄️ Backend Development  
-🧠 Advanced Web Technologies  
-
-</td>
-
-<td width="50%">
-
-### 🆘 Looking For Help With
-🔧 Backend Architecture  
-📡 API Optimization  
-⚙️ Scalable Systems  
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 💬 Ask Me About
-🌐 Web Development  
-🚀 Hackathons  
-🟨 JavaScript  
-
-</td>
-
-<td width="50%">
-
-### ⚡ Fun Fact
-💡 I love building projects that  
-solve **real-life problems with code**
-
-</td>
-</tr>
-</table>
-
-</div>
+---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://linkedin.com/in/ankitpal32"><img src="https://skillicons.dev/icons?i=linkedin" height="45"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://instagram.com/i..ankitpal_"><img src="https://skillicons.dev/icons?i=instagram" height="45"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://x.com/ankitpal32"><img src="https://img.icons8.com/ios-filled/50/ffffff/twitterx.png" height="45"/></a>&nbsp;&nbsp;&nbsp;
-<a href="mailto:ankitpal3210@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45"/></a>
+  <a href="https://linkedin.com/in/ankitpal32"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="mailto:ankitpal3210@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="https://github.com/ankitpal32"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
 </p>
 
-<p align="center">
-💼 Let's connect and build something amazing together!
-</p>
+<div align="center">
 
+### Building with purpose, learning every day.
 
-## 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,github,mysql,mongodb,firebase,aws,postman"/>
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitpal32&theme=tokyonight" height="170"/>
-
-</p>
-
+</div>
