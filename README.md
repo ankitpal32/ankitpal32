@@ -9,12 +9,14 @@
 </div>
 
 ---
-
 ## 🚀 About Me
 
-- 🎓 BCA Student
-- 💼 Full Stack Developer
-- 💡 Focused on building useful web products
+- 💻 Full Stack Developer
+- 🚀 Building scalable web applications
+- 🤖 Exploring AI & modern web technologies
+- 🏆 Hackathon Enthusiast
+- 🌱 Continuous Learner
+- 🎯 Open to exciting opportunities
 
 ---
 
@@ -23,14 +25,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,tailwind,git,github,postman,vercel,firebase,supabase,vscode,aws" />
 </p>
-
----
-
-## 💼 Experience
-
-### HyprDevs Software Solutions
-**Full Stack Developer / Co-Founder**  
-Built and delivered real-world web applications, worked with teams, and contributed to product development and technical execution.
 
 ---
 
